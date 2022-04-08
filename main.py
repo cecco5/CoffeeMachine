@@ -106,6 +106,8 @@ def check_transaction(pagamento, costo_bevanda):
     return True
 
 
+'''MAIN
+
 # INIZIO PROGRAMMA
 
 # Flusso continuo programma
@@ -126,3 +128,4 @@ while is_on:
                 print(f"Ecco il suo {comando_utente}.")
     else:
         print("Comando non disponibile\n")
+'''
