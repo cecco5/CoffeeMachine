@@ -1,2 +1,2 @@
-# Python_first_steps
-Primi progetti in Python!
+# Project of a coffee machine!
+
