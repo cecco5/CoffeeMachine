@@ -3,7 +3,7 @@
 - latte
 - cappuccino"""
 
-# ADDED COMMENT
+
 # Risorse presenti nella macchina
 risorse = {"milk": 300,
            "coffee": 300,
